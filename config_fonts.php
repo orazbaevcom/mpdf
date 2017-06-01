@@ -81,7 +81,7 @@ $this->backupSIPFont = 'sun-extb';
  */
 
   $this->fontdata = array(
-  	"times" => array(
+  	"tnroman" => array(
   		'R' => "times-new-roman.ttf",
   		'B' => "times-new-roman-gras.ttf",
   		'I' => "times-new-roman-italique.ttf",
